@@ -10,6 +10,7 @@ Solutions of algorithm problems from HackerRank
 
 - Mini-Max Sum: [Problem](https://www.hackerrank.com/challenges/mini-max-sum), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/MiniMaxSum.java)
 - Designer PDF Viewer: [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/DesignerPdfViewer.java)
+- Apple And Orange: [Problem](https://www.hackerrank.com/challenges/apple-and-orange), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/AppleAndOrange.java)
 
 ### Greedy
 
