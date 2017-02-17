@@ -12,6 +12,10 @@ Solutions of algorithm problems from HackerRank
 - Designer PDF Viewer: [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/DesignerPdfViewer.java)
 - Apple And Orange: [Problem](https://www.hackerrank.com/challenges/apple-and-orange), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/AppleAndOrange.java)
 
+### Strings
+
+- CamelCase: [Problem](https://www.hackerrank.com/challenges/camelcase), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/strings/CamelCase.java)
+
 ### Greedy
 
 - Goodland Electricity: [Problem](https://www.hackerrank.com/challenges/pylons), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/greedy/GoodlandElectricity.java)
