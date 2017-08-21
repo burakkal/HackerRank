@@ -14,6 +14,7 @@ Solutions of algorithm problems from HackerRank
 - Kangaroo: [Problem](https://www.hackerrank.com/challenges/kangaroo), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/Kangaroo.java)
 - Between Two Sets: [Problem](https://www.hackerrank.com/challenges/between-two-sets), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/BetweenTwoSets.java)
 - Grading Students: [Problem](https://www.hackerrank.com/challenges/grading), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/GradingStudents.java)
+- Day of the Programmer: [Problem](https://www.hackerrank.com/challenges/day-of-the-programmer), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/DayOfTheProgrammer.java)
 
 ### Strings
 
