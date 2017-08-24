@@ -4,15 +4,39 @@ import java.util.Scanner;
 
 public class BirthdayChocolate {
 
-    private static int getWays(int n, int[] s, int d, int m) {
+    // O(n)
 
-        int sum;
-        int result = 0;
+    private static int getWaysWithLinearTime(int n, int[] s, int d, int m) {
 
         if (m > n)
             return 0;
 
-        for (int i = 0; i < n-m+1; i++) {
+        int[] sum = new int[n+1];
+        int result = 0;
+        sum[0] = 0;
+
+        for (int i = 0; i < n; i++) {
+            sum[i+1] = sum[i] + s[i];
+        }
+
+        for (int i = 0; i <= n - m; i++) {
+            if(sum[i+m] - sum[i] == d) result++;
+        }
+
+        return result;
+    }
+
+    // O(n*n)
+
+    private static int getWaysWithQuadraticTime(int n, int[] s, int d, int m) {
+
+        if (m > n)
+            return 0;
+
+        int sum;
+        int result = 0;
+
+        for (int i = 0; i <= n - m; i++) {
             sum = 0;
 
             for (int j = 0; j < m; j++) {
@@ -39,7 +63,7 @@ public class BirthdayChocolate {
         int d = in.nextInt();
         int m = in.nextInt();
 
-        int result = getWays(n, s, d, m);
+        int result = getWaysWithLinearTime(n, s, d, m);
 
         System.out.println(result);
     }
