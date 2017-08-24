@@ -16,6 +16,7 @@ Solutions of algorithm problems from HackerRank
 - Grading Students: [Problem](https://www.hackerrank.com/challenges/grading), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/GradingStudents.java)
 - Day of the Programmer: [Problem](https://www.hackerrank.com/challenges/day-of-the-programmer), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/DayOfTheProgrammer.java)
 - Breaking the Records: [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/BreakingTheRecords.java)
+- Birthday Chocolate: [Problem](https://www.hackerrank.com/challenges/the-birthday-bar), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/BirthdayChocolate.java)
 
 ### Strings
 
