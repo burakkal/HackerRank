@@ -25,6 +25,10 @@ Solutions of algorithm problems from HackerRank
 
 - CamelCase: [Problem](https://www.hackerrank.com/challenges/camelcase), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/strings/CamelCase.java)
 
+### Graph Theory
+
+- Even Tree: [Problem](https://www.hackerrank.com/challenges/even-tree), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/graphtheory/EvenTree.java)
+
 ### Greedy
 
 - Goodland Electricity: [Problem](https://www.hackerrank.com/challenges/pylons), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/greedy/GoodlandElectricity.java)
