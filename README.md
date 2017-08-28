@@ -19,6 +19,7 @@ Solutions of algorithm problems from HackerRank
 - Birthday Chocolate: [Problem](https://www.hackerrank.com/challenges/the-birthday-bar), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/BirthdayChocolate.java)
 - Divisible Sum Pairs: [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/DivisibleSumPairs.java)
 - Migratory Birds: [Problem](https://www.hackerrank.com/challenges/migratory-birds), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/MigratoryBirds.java)
+- Bon Appetit: [Problem](https://www.hackerrank.com/challenges/bon-appetit), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/implementation/BonAppetit.java)
 
 ### Strings
 
