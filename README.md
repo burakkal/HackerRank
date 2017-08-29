@@ -32,3 +32,7 @@ Solutions of algorithm problems from HackerRank
 ### Greedy
 
 - Goodland Electricity: [Problem](https://www.hackerrank.com/challenges/pylons), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/greedy/GoodlandElectricity.java)
+
+### Dynamic Programming
+
+- FibonacciModified: [Problem](https://www.hackerrank.com/challenges/fibonacci-modified), [Solution](https://github.com/burakkal/HackerRank/blob/master/src/main/java/com/burakkal/hackerrank/algorithms/dynamicprogramming/FibonacciModified.java)
